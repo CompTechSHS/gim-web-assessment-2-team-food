@@ -90,3 +90,9 @@ img[src*="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/re
 
 img[src*="https://www.maggiebeer.com.au/cdn/shop/files/anzac_biscuits_recipe_2000x.jpg?v=1726030267"]{ position: absolute; top: 20px; right: 20px;
   border-radius: 20%}
+
+img[src*="https://img.taste.com.au/1QlXwhpb/taste/2024/03/easy-fried-rice-close-up-196630-1.jpg"]{ position: absolute; top: 20px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://img.taste.com.au/GXKcqv36/taste/2016/11/easy-fried-rice-recipe-with-egg-197248-1.jpg"]{ position: absolute; top: 20px; right: 20px;
+  border-radius: 20%}
