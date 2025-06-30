@@ -1,0 +1,112 @@
+body {background: white;}
+
+p {color: black;
+  text-align: center;
+width: 800px;
+margin: auto;
+font-size: 30px}
+
+h1 {font-weight: bold;
+text-align: center}
+
+.cox{height: 170px;
+  width: 500px; 
+  border: 1px solid white;
+  background-color: rgb(193, 157, 77);
+  margin: auto;
+  position:absolute; bottom: 10px; left:490px}
+
+h2 {text-align: center;
+  font-size: 50px;
+  color: black;}
+
+a {color: black}
+
+img[src*="https://foragerchef.com/wp-content/uploads/2020/03/Rocky-mountain-oysters_-6.jpg"] { position: absolute; top: 20px; right: 20px;
+  border-radius: 20%}
+
+img[src*="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-l8Q6VvJ8jqmaoaGZtDtyFdEG-GAonFIXbQ&s"]{ position: absolute; top: 20px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78rYqCvzN46kJwiw_Yz_e_-wFAsEqFEGebg&s"] { position: absolute; top: 400px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://foragerchef.com/wp-content/uploads/2020/03/Smoked-Lamb-Testicles-7.jpg"]{ position: absolute; top: 400px; right: 20px;
+  border-radius: 20%}
+
+img[src*="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUT0r4pWlUu6RvbbH29KOk1OCOtHu7B1VlVw&s"] { position: absolute; top: 20px; right: 20px;
+  border-radius: 20%}
+
+img[src*="https://i0.wp.com/www.russianfilipinokitchen.com/wp-content/uploads/2014/10/banana-meat-fried-banana-stuffed-with-ground-pork-01.jpg?fit=%2C"]{ position: absolute; top: 20px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS762c_5_JhC7dp1KKJXhDqJYidVy52vzMC9w&s"] { position: absolute; top: 400px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtVJulHX_ZXvrRKhaHGqJHh8a8yPaJCQuIdg&s"] { position: absolute; top: 400px; right: 20px;
+  border-radius: 20%}
+
+.dox{height: 70px;
+  width: 500px; 
+  border: 1px solid white;
+  background-color: rgb(193, 157, 77);
+  margin:auto;}
+
+h3 {position: absolute; left: 900px; top:300px;
+font-size: 30px; line-height:40px;}
+
+h4 {position: absolute; left: 250px; top:300px;
+  font-size: 30px; width:550px;
+line-height: 40px}
+
+.fox{height: 170px;
+  width: 500px; 
+  border: 1px solid white;
+  background-color: rgb(193, 157, 77);
+  margin: auto;
+  position:absolute; bottom: -400px; left:490px}
+
+img[src*="https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_960/v1/img/recipes/63/07/1/p8WoqYxXQA65XAEHzNv0_best-belgian-waffles-6475.jpg"]{ position: absolute; top: 20px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://stordfkenticomedia.blob.core.windows.net/df-us/rms/media/recipesmedia/recipes/retail/x17/2010/apr/2020_belgian-style-waffles_16700_600x600.jpg?ext=.jpg"]{ position: absolute; top: 20px; right: 20px;
+  border-radius: 20%}
+
+img[src*="https://www.recipetineats.com/tachyon/2017/09/Peanut-Butter-Cookies-3-Ingredients.jpg?resize=964%2C1350&zoom=0.8"]{ position: absolute; top: 20px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://www.recipetineats.com/tachyon/2017/09/Peanut-Butter-Cookies-3-Ingredients-8.jpg?resize=964%2C1350&zoom=0.8"]{ position: absolute; top: 20px; right: 20px;
+  border-radius: 20%}
+
+.kox{height: 170px;
+  width: 500px; 
+  border: 1px solid white;
+  background-color: rgb(193, 157, 77);
+  margin: auto;
+  position:absolute; bottom: -600px; left:490px}
+
+img[src*="https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1259668_7-494e4d6.jpg?quality=90&webp=true&resize=440,400"]{ position: absolute; top: 20px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://www.maggiebeer.com.au/cdn/shop/files/anzac_biscuits_recipe_2000x.jpg?v=1726030267"]{ position: absolute; top: 20px; right: 20px;
+  border-radius: 20%}
+
+img[src*="https://img.taste.com.au/1QlXwhpb/taste/2024/03/easy-fried-rice-close-up-196630-1.jpg"]{ position: absolute; top: 20px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://img.taste.com.au/GXKcqv36/taste/2016/11/easy-fried-rice-recipe-with-egg-197248-1.jpg"]{ position: absolute; top: 20px; right: 20px;
+  border-radius: 20%}
+
+img[src*="https://m.media-amazon.com/images/I/81N+hDRnLhL.jpg"]{ position: absolute; top: 20px; right: 20px; 
+  border-radius: 20%}
+
+img[src*="https://m.media-amazon.com/images/I/71-6T7-Vl6L.jpg"]{ position: absolute; bottom: -200px; margin:auto; 
+  border-radius: 20%;
+left: 570px}
+
+img[src*="https://i.insider.com/5bf5b934bde70f7e100015a6?width=600&format=jpeg&auto=webp"]{ position: absolute; top: 20px; right: 20px; 
+  border-radius: 20%}
+
+img[src*="https://www.seriouseats.com/thmb/DjZnGzAdiyM9ZIb_3Hsm3HfuA7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2014__10__20141023-egg-cracking-vicky-wasik-11-4674407e20944b78ba48f10010d5aec7.jpg"]{ position: absolute; bottom: -350px; margin:auto; 
+  border-radius: 20%;
+  left: 570px}

@@ -1,0 +1,41 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+.fox{height: 170px;
+  width: 500px; 
+  border: 1px solid white;
+  background-color: rgb(193, 157, 77);
+  margin: auto;
+  position:absolute; bottom: -900px; left:490px}
+
+h4 {color: black;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  font-size: 30px}
+
+h3 {color: black;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  font-size: 30px}
+
+a {color: black;
+font-size: 60px}
+
+img[src*="https://www.seriouseats.com/thmb/BGV4Y7c0Kv2Ri-dmutNgCcble9w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/easy-vegetable-fried-rice-recipe-hero-2-fed2a62b8bce4c51b945d9c24c2edb68.jpg"]{ position: absolute; top: 20px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://tastesbetterfromscratch.com/wp-content/uploads/2021/03/Ham-Fried-RIce-37-300x300.jpg"]{ position: absolute; top: 20px; right: 20px;
+  border-radius: 20%}
+
+h2 {text-align: center;
+  font-size: 50px;
+  color: black;}

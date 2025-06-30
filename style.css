@@ -1,0 +1,44 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+text-align: center}
+h1 {text-align: center;
+text-decoration-line: underline;
+font-size: 100px}
+
+h2 {text-align: center;
+font-size: 50px;
+color: black;}
+
+.box{height: 100px;
+width: 500px; 
+border: 1px solid white;
+  background-color: rgb(193, 157, 77);
+margin: auto;
+text-decoration-color: black}
+
+.cox{height: 170px;
+  width: 500px; 
+  border: 1px solid white;
+  background-color: rgb(193, 157, 77);
+margin:auto;}
+
+a{color:black;
+text-align: center;}
+
+img[src*="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0HBozggxppu9rsHS-vkV36MIXkdVvCSv1xQ&s"] { position: absolute; top: 250px; right: 20px;
+  border-radius: 20%}
+
+img[src*="https://cdn.loveandlemons.com/wp-content/uploads/2024/12/waffle.jpg"] { position: absolute; top: 250px; left: 20px;
+  border-radius: 20%}
+
+img[src*="https://stordfkenticomedia.blob.core.windows.net/df-us/rms/media/recipesmedia/recipes/retail/x17/2010/apr/2020_belgian-style-waffles_16700_600x600.jpg?ext=.jpg"] { position: absolute; top: 250px; left: 20px;
+  border-radius: 20%}
+
+.rox{height: 170px;
+  width: 500px; 
+  border: 1px solid white;
+  background-color: rgb(193, 157, 77);
+  margin: auto;
