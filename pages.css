@@ -96,3 +96,10 @@ img[src*="https://img.taste.com.au/1QlXwhpb/taste/2024/03/easy-fried-rice-close-
 
 img[src*="https://img.taste.com.au/GXKcqv36/taste/2016/11/easy-fried-rice-recipe-with-egg-197248-1.jpg"]{ position: absolute; top: 20px; right: 20px;
   border-radius: 20%}
+
+img[src*="https://m.media-amazon.com/images/I/81N+hDRnLhL.jpg"]{ position: absolute; top: 20px; right: 20px; 
+  border-radius: 20%}
+
+img[src*="https://m.media-amazon.com/images/I/71-6T7-Vl6L.jpg"]{ position: absolute; bottom: -200px; margin:auto; 
+  border-radius: 20%;
+left: 570px}
